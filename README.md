@@ -44,13 +44,13 @@ Weekly review automation and documentation.
 ### 1. Add the marketplace
 
 ```bash
-/plugin marketplace add https://github.com/bigchewy/Eric-tools
+/plugin marketplace add https://github.com/bigchewy/ai-tools
 ```
 
 Or for local development:
 
 ```bash
-/plugin marketplace add /path/to/Eric-tools
+/plugin marketplace add /path/to/ai-tools
 ```
 
 ### 2. Browse and install plugins
@@ -103,7 +103,7 @@ Requires the Asana MCP server. Configure in your Claude Code settings:
 ### Project Structure
 
 ```
-Eric-tools/
+ai-tools/
 ├── .claude-plugin/
 │   └── marketplace.json       # Marketplace definition
 ├── daily-signal/              # Daily check-in plugin

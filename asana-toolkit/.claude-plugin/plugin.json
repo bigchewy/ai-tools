@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Asana task management tools including data collection, task creation, and weekly analysis agents.",
   "author": "Eric W Page",
-  "repository": "https://github.com/bigchewy/Eric-tools",
+  "repository": "https://github.com/bigchewy/ai-tools",
   "keywords": ["asana", "productivity", "task-management", "data-analysis"]
 }

@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Weekly review automation including Friday check-ins and structured documentation generation.",
   "author": "Eric W Page",
-  "repository": "https://github.com/bigchewy/Eric-tools",
+  "repository": "https://github.com/bigchewy/ai-tools",
   "keywords": ["weekly-review", "productivity", "reflection"]
 }
