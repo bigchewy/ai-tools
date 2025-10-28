@@ -1,0 +1,8 @@
+{
+  "name": "weekly-reviews",
+  "version": "1.0.0",
+  "description": "Weekly review automation including Friday check-ins and structured documentation generation.",
+  "author": "Eric W Page",
+  "repository": "https://github.com/bigchewy/Eric-tools",
+  "keywords": ["weekly-review", "productivity", "reflection"]
+}

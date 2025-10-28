@@ -1,0 +1,22 @@
+{
+  "name": "eric-productivity-tools",
+  "description": "Productivity and self-awareness tools for Claude Code including daily check-ins, Asana integration, and weekly reviews",
+  "author": "Eric W Page",
+  "plugins": [
+    {
+      "name": "daily-signal",
+      "path": "./daily-signal",
+      "version": "1.0.0"
+    },
+    {
+      "name": "asana-toolkit",
+      "path": "./asana-toolkit",
+      "version": "1.0.0"
+    },
+    {
+      "name": "weekly-reviews",
+      "path": "./weekly-reviews",
+      "version": "1.0.0"
+    }
+  ]
+}
