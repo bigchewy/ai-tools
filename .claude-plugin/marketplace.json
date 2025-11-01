@@ -18,6 +18,11 @@
       "name": "weekly-reviews",
       "source": "./weekly-reviews",
       "description": "Weekly review documentation automation"
+    },
+    {
+      "name": "dev-toolkit",
+      "source": "./dev-toolkit",
+      "description": "Development tools for creating and managing plugins, commands, and agents"
     }
   ]
 }

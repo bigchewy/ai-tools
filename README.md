@@ -39,6 +39,19 @@ Weekly review automation and documentation.
 **Agents:**
 - `weekly-doc-creator` - Generate structured Google Docs for weekly reviews
 
+### 🛠️ dev-toolkit
+Development tools for creating and managing plugins, commands, and agents.
+
+**Commands:**
+- `/create-command` - Interactive command generator with template selection and validation
+
+**Features:**
+- 4 command templates (simple, multi-step, MCP integration, resource references)
+- Automated validation (plugin exists, kebab-case naming, no conflicts)
+- Follows all 7 proven patterns from daily-signal
+- Creates resource directories and updates README automatically
+- Python utility script for file operations
+
 ## Installation
 
 ### 1. Add the marketplace
@@ -67,6 +80,7 @@ Or install directly:
 /plugin install daily-signal@eric-productivity-tools
 /plugin install asana-toolkit@eric-productivity-tools
 /plugin install weekly-reviews@eric-productivity-tools
+/plugin install dev-toolkit@eric-productivity-tools
 ```
 
 ## Configuration
@@ -109,6 +123,7 @@ ai-tools/
 ├── daily-signal/              # Daily check-in plugin
 ├── asana-toolkit/             # Asana integration plugin
 ├── weekly-reviews/            # Weekly review plugin
+├── dev-toolkit/               # Development tools plugin
 └── README.md
 ```
 

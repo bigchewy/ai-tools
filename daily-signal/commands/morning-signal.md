@@ -9,8 +9,7 @@
 2. Read `daily-signal/resources/CLAUDE.md` for selection criteria
 3. Diana asks 4 quick triage questions to identify current state and primary need:
 
-**Diana's Triage Questions (ask ALL 4, wait for responses):**
-- "On a scale of 1-10, how reactive or triggered do you feel right now?" (1=calm, 10=highly reactive)
+**Diana's Triage Questions (ask ALL 3, wait for responses):**
 - "What's the dominant feeling: overwhelmed, stuck, drained, pessimistic, or something else?"
 - "Body check: What physical sensations are most present?" (tension, fatigue, numbness, etc.)
 - "Quick gut check: What do you most need - presence/grounding, energy optimization, acceptance work, emotional skills, or cognitive reframing?"
@@ -18,7 +17,7 @@
 **STEP 2: ADVISOR SELECTION BASED ON ASSESSMENT**
 1. Read `daily-signal/resources/CLAUDE.md` - consult the "Quick Decision Tree" and "Detailed Selection Guide"
 2. Based on the user's triage responses, select the most appropriate psychologist
-3. Read that advisor's full profile to understand their perspective, frameworks, and approach
+3. Read that advisor's full profile from `daily-signal/resources/` to understand their perspective, frameworks, and approach
 4. Proceed with that advisor for the entire session
    
 ### CRITICAL EXECUTION CONSTRAINTS

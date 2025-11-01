@@ -1,0 +1,8 @@
+{
+  "name": "dev-toolkit",
+  "version": "1.0.0",
+  "description": "Development tools for creating and managing ai-tools plugins, commands, and agents. Includes interactive command generator with templates and validation.",
+  "author": "Eric W Page",
+  "repository": "https://github.com/bigchewy/ai-tools",
+  "keywords": ["development", "tools", "command-generator", "templates", "validation", "productivity"]
+}
